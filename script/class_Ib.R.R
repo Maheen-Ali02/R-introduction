@@ -23,3 +23,5 @@ str(original_data)
 
 #saving the dataset in csv format in clean_data sub-folder
 write.csv(original_data, "clean_data/patient_info_clean.csv")
+
+save.image("Maheen Ali_Class_Ib_Assignment.RData")
